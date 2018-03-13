@@ -1,0 +1,7 @@
+{
+	"error": {
+		"email": "Email này đã tồn tại",
+		"psw": "password phải dài hơn 6 ký tự"
+	},
+	"result": "0"
+}

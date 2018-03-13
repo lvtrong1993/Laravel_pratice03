@@ -1,0 +1,44 @@
+@charset "utf-8";
+.cancel {
+	width: 49%;
+	height: 50px;
+	background-color: hotpink;
+	display: inline-block;
+	border: 0px;
+}
+.signup {
+	width: 49%;
+	height: 50px;
+	background-color: forestgreen;
+	display: inline-block;
+	border: 0px;
+}
+form {
+	border: 1px solid black;
+	padding: 10px;
+}
+input {
+	width: 98%;
+	height: 30px;
+	margin: 5px;
+	padding: 5px;
+}
+strong {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	box-sizing: border-box;
+}
+.remember {
+	width: auto;
+	height: auto;
+}
+#p1 {
+	font-size: 5px;
+	color: red;
+}
+
+span{
+	color: red;
+	margin-left: 10px;
+	
+}
